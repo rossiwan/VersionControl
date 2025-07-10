@@ -87,7 +87,6 @@ export default defineConfig((ctx) => {
       // directives: [],
 
       // Quasar plugins
- HEAD
       plugins: [
         'Notify'
       ]
